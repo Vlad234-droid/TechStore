@@ -1,3 +1,3 @@
-# The final project online-store.
+# Tech Store
 
-**DEMO** https://evgeniyshigartsov.github.io/Final_project_Online-store/#/
+https://intense-reaches-12245.herokuapp.com/
