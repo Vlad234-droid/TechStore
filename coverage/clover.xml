@@ -1,0 +1,2781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1618322498986" clover="3.2.0">
+  <project timestamp="1618322498986" name="All files">
+    <metrics statements="1806" coveredstatements="1096" conditionals="671" coveredconditionals="244" methods="623" coveredmethods="252" elements="3100" coveredelements="1592" complexity="0" loc="1806" ncloc="1806" packages="99" files="224" classes="224"/>
+    <package name="src">
+      <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="App.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/App.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.PrivateRoute">
+      <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="PrivateRoute.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/PrivateRoute/PrivateRoute.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.About-us">
+      <metrics statements="43" coveredstatements="43" conditionals="50" coveredconditionals="50" methods="26" coveredmethods="26"/>
+      <file name="AboutUs.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/About-us/AboutUs.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+      </file>
+      <file name="ContentForAboutUs.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/About-us/ContentForAboutUs.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+      <file name="StyledAboutUs.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/About-us/StyledAboutUs.jsx">
+        <metrics statements="34" coveredstatements="34" conditionals="46" coveredconditionals="46" methods="23" coveredmethods="23"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="34" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="69" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="70" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="81" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="106" count="2" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
+        <line num="139" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="140" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="141" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="154" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="157" count="2" type="stmt"/>
+        <line num="159" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="162" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="163" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="170" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="171" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="172" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="178" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="180" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="183" count="2" type="stmt"/>
+        <line num="185" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="188" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="193" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.AppWrapper">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="StyledAppWrapper.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/AppWrapper/StyledAppWrapper.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.AuthModal">
+      <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="AuthModal.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/AuthModal/AuthModal.jsx">
+        <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.BannerSlider">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="BannerSlider.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BannerSlider/BannerSlider.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+      </file>
+      <file name="StylesBannerSlider.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BannerSlider/StylesBannerSlider.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.BrandsAndFollow">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="FollowUsInstagram.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BrandsAndFollow/FollowUsInstagram.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="40" count="18" type="stmt"/>
+      </file>
+      <file name="HomePageBrands.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BrandsAndFollow/HomePageBrands.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="26" count="14" type="stmt"/>
+      </file>
+      <file name="StyledFollowUsInstagram.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BrandsAndFollow/StyledFollowUsInstagram.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+      </file>
+      <file name="StyledHomePageBrands.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/BrandsAndFollow/StyledHomePageBrands.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Carousel">
+      <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="11" methods="6" coveredmethods="4"/>
+      <file name="Carousel.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Carousel/Carousel.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="9" methods="5" coveredmethods="3"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="14" count="23" type="stmt"/>
+        <line num="16" count="23" type="stmt"/>
+        <line num="17" count="11" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="11" type="stmt"/>
+        <line num="23" count="23" type="stmt"/>
+        <line num="35" count="7" type="stmt"/>
+        <line num="41" count="7" type="stmt"/>
+      </file>
+      <file name="StyledCarousel.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Carousel/StyledCarousel.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="35" count="22" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.CartPage">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="CartPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/CartPage.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="Flex.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/Flex.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="36" count="8" type="stmt"/>
+        <line num="44" count="8" type="stmt"/>
+        <line num="48" count="8" type="stmt"/>
+        <line num="58" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CartPage.CartItem">
+      <metrics statements="27" coveredstatements="23" conditionals="6" coveredconditionals="3" methods="8" coveredmethods="7"/>
+      <file name="CartItem.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/CartItem/CartItem.jsx">
+        <metrics statements="24" coveredstatements="20" conditionals="6" coveredconditionals="3" methods="8" coveredmethods="7"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+      </file>
+      <file name="StyledCartItem.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/CartItem/StyledCartItem.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CartPage.CartList">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="5"/>
+      <file name="CartList.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/CartList/CartList.jsx">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="5"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+      </file>
+      <file name="StyledCartList.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/CartList/StyledCartList.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CartPage.Summary">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <file name="StyledSummary.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/Summary/StyledSummary.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+      <file name="Summary.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/Summary/Summary.jsx">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CartPage.TheadCart">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="StyledTheadCart.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/TheadCart/StyledTheadCart.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+      <file name="TheadCart.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CartPage/TheadCart/TheadCart.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage">
+      <metrics statements="37" coveredstatements="11" conditionals="14" coveredconditionals="3" methods="11" coveredmethods="2"/>
+      <file name="CatalogPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogPage.jsx">
+        <metrics statements="7" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="StyledCatalogPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/StyledCatalogPage.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="filterConfig.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/filterConfig.js">
+        <metrics statements="28" coveredstatements="8" conditionals="14" coveredconditionals="3" methods="8" coveredmethods="2"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="80" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="32" type="stmt"/>
+        <line num="9" count="48" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="48" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="91" count="2" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="111" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="114" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="116" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage.CatalogFilter">
+      <metrics statements="39" coveredstatements="23" conditionals="25" coveredconditionals="13" methods="9" coveredmethods="5"/>
+      <file name="CatalogFilter.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogFilter/CatalogFilter.jsx">
+        <metrics statements="26" coveredstatements="10" conditionals="21" coveredconditionals="9" methods="7" coveredmethods="3"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+      </file>
+      <file name="StylesCatalogfilter.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogFilter/StylesCatalogfilter.jsx">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="42" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+        <line num="115" count="2" type="stmt"/>
+        <line num="132" count="2" type="stmt"/>
+        <line num="143" count="2" type="stmt"/>
+        <line num="147" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage.CatalogFilter.FormMenu">
+      <metrics statements="17" coveredstatements="16" conditionals="7" coveredconditionals="3" methods="8" coveredmethods="7"/>
+      <file name="FormMenu.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogFilter/FormMenu/FormMenu.jsx">
+        <metrics statements="17" coveredstatements="16" conditionals="7" coveredconditionals="3" methods="8" coveredmethods="7"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="28" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+        <line num="47" count="16" type="stmt"/>
+        <line num="61" count="52" type="stmt"/>
+        <line num="87" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage.CatalogPagination">
+      <metrics statements="11" coveredstatements="3" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="CatalogPagination.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogPagination/CatalogPagination.jsx">
+        <metrics statements="10" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="StyledCatalogPagination.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogPagination/StyledCatalogPagination.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage.CatalogProductsPlace">
+      <metrics statements="14" coveredstatements="4" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="CatalogProductsPlace.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogProductsPlace/CatalogProductsPlace.jsx">
+        <metrics statements="12" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="StyledCatalogProductsPlace.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogProductsPlace/StyledCatalogProductsPlace.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CatalogPage.CatalogSort">
+      <metrics statements="19" coveredstatements="6" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="CatalogSort.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogSort/CatalogSort.jsx">
+        <metrics statements="15" coveredstatements="2" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="1" type="stmt"/>
+      </file>
+      <file name="StyledCatalogSort.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CatalogPage/CatalogSort/StyledCatalogSort.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Checkout">
+      <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+      <file name="Checkout.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/Checkout.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+      </file>
+      <file name="StyledCheckout.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/StyledCheckout.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Checkout.FormCheckout">
+      <metrics statements="25" coveredstatements="25" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="7"/>
+      <file name="FormCheckout.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/FormCheckout/FormCheckout.jsx">
+        <metrics statements="24" coveredstatements="24" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="7"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="63" count="5" type="stmt"/>
+        <line num="64" count="5" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="66" count="5" type="stmt"/>
+        <line num="70" count="5" type="stmt"/>
+        <line num="72" count="5" type="stmt"/>
+        <line num="73" count="3" type="stmt"/>
+        <line num="74" count="3" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="82" count="5" type="stmt"/>
+        <line num="219" count="25" type="stmt"/>
+        <line num="235" count="2" type="stmt"/>
+        <line num="239" count="4" type="stmt"/>
+        <line num="253" count="2" type="stmt"/>
+        <line num="261" count="2" type="stmt"/>
+        <line num="270" count="2" type="stmt"/>
+      </file>
+      <file name="utils.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/FormCheckout/utils.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Checkout.OrderSummary">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="OrderSummary.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/OrderSummary/OrderSummary.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+      </file>
+      <file name="StyledOrderSummary.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Checkout/OrderSummary/StyledOrderSummary.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ContactUs">
+      <metrics statements="30" coveredstatements="21" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="ContactUsPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ContactUs/ContactUsPage.jsx">
+        <metrics statements="11" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+      <file name="Styled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ContactUs/Styled.jsx">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="158" count="1" type="stmt"/>
+        <line num="163" count="1" type="stmt"/>
+        <line num="169" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CreateCustomerPage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CreateCustomerPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/CreateCustomerPage.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="StylesCreateCustomer.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/StylesCreateCustomer.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CreateCustomerPage.SignUpBox">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="SignUpBox.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/SignUpBox.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+      </file>
+      <file name="StylesSignUpBox.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/StylesSignUpBox.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CreateCustomerPage.SignUpBox.Form">
+      <metrics statements="21" coveredstatements="8" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <file name="SignUpForm.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/Form/SignUpForm.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+      </file>
+      <file name="StylesSignUpForm.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/Form/StylesSignUpForm.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="utils.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/Form/utils.js">
+        <metrics statements="15" coveredstatements="3" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CreateCustomerPage.SignUpBox.LoginPageLink">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="LoginPageLink.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/CreateCustomerPage/SignUpBox/LoginPageLink/LoginPageLink.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard">
+      <metrics statements="12" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="DashBoard.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/DashBoard.jsx">
+        <metrics statements="6" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+      <file name="StyledDashBoard.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/StyledDashBoard.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="77" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.DashBoardModal">
+      <metrics statements="11" coveredstatements="9" conditionals="3" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="DashBoardModal.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/DashBoardModal/DashBoardModal.jsx">
+        <metrics statements="10" coveredstatements="8" conditionals="3" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="1" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+      </file>
+      <file name="DashBoardModalStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/DashBoardModal/DashBoardModalStyled.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.FormInfoChange">
+      <metrics statements="15" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="FormInfoChange.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/FormInfoChange/FormInfoChange.jsx">
+        <metrics statements="15" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+        <line num="96" count="4" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.FormPasswordChange">
+      <metrics statements="13" coveredstatements="4" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="FormPasswordChange.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/FormPasswordChange/FormPasswordChange.jsx">
+        <metrics statements="13" coveredstatements="4" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="127" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.Orders">
+      <metrics statements="15" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="OrderComponent.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Orders/OrderComponent.jsx">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+      </file>
+      <file name="Orders.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Orders/Orders.jsx">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+      </file>
+      <file name="StyledOrderComponent.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Orders/StyledOrderComponent.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+      </file>
+      <file name="StyledOrders.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Orders/StyledOrders.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.PasswordInfoChange">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="PasswordInfoChange.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/PasswordInfoChange/PasswordInfoChange.jsx">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+      </file>
+      <file name="StylesPasswordInfoChange.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/PasswordInfoChange/StylesPasswordInfoChange.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DashBoard.Subscribed">
+      <metrics statements="27" coveredstatements="7" conditionals="12" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="NotSubscribedUser.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Subscribed/NotSubscribedUser.jsx">
+        <metrics statements="8" coveredstatements="2" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="StyledNotSubscribedUser.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Subscribed/StyledNotSubscribedUser.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="Subscribe.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Subscribed/Subscribe.jsx">
+        <metrics statements="16" coveredstatements="3" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+      </file>
+      <file name="SubscribedUser.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/DashBoard/Subscribed/SubscribedUser.jsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Description">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Description.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Description/Description.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+      <file name="StyledDescription.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Description/StyledDescription.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.FavotiteIcon">
+      <metrics statements="10" coveredstatements="9" conditionals="12" coveredconditionals="6" methods="6" coveredmethods="4"/>
+      <file name="FavoriteIcon.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/FavotiteIcon/FavoriteIcon.jsx">
+        <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="2" methods="4" coveredmethods="2"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="43" count="6" type="stmt"/>
+      </file>
+      <file name="StylesFavoriteIcon.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/FavotiteIcon/StylesFavoriteIcon.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="1" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.Footer">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Footer.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/Footer.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Footer.footer-components">
+      <metrics statements="21" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="8"/>
+      <file name="FooterAdress.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterAdress.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="FooterCopyRight.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterCopyRight.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="FooterHeader.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterHeader.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="FooterLinks.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterLinks.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="13" count="42" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+      <file name="FooterPayment.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterPayment.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="FooterSocialNetwork.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterSocialNetwork.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="FooterSubscribe.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/FooterSubscribe.jsx">
+        <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Footer.footer-components.footer-config">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="footerConfig.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/footer-config/footerConfig.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Footer.footer-components.footer-style-components">
+      <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Styled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Footer/footer-components/footer-style-components/Styled.jsx">
+        <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="102" count="3" type="stmt"/>
+        <line num="113" count="3" type="stmt"/>
+        <line num="125" count="3" type="stmt"/>
+        <line num="136" count="3" type="stmt"/>
+        <line num="148" count="3" type="stmt"/>
+        <line num="161" count="3" type="stmt"/>
+        <line num="172" count="3" type="stmt"/>
+        <line num="202" count="3" type="stmt"/>
+        <line num="216" count="3" type="stmt"/>
+        <line num="224" count="3" type="stmt"/>
+        <line num="235" count="3" type="stmt"/>
+        <line num="255" count="3" type="stmt"/>
+        <line num="274" count="3" type="stmt"/>
+        <line num="291" count="3" type="stmt"/>
+        <line num="305" count="3" type="stmt"/>
+        <line num="315" count="3" type="stmt"/>
+        <line num="321" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header">
+      <metrics statements="41" coveredstatements="33" conditionals="6" coveredconditionals="3" methods="12" coveredmethods="2"/>
+      <file name="Header.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/Header.jsx">
+        <metrics statements="19" coveredstatements="11" conditionals="4" coveredconditionals="1" methods="11" coveredmethods="1"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+      </file>
+      <file name="HeaderStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/HeaderStyled.jsx">
+        <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="122" count="2" type="stmt"/>
+        <line num="139" count="2" type="stmt"/>
+        <line num="148" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="153" count="2" type="stmt"/>
+        <line num="166" count="2" type="stmt"/>
+        <line num="175" count="2" type="stmt"/>
+        <line num="191" count="2" type="stmt"/>
+        <line num="201" count="2" type="stmt"/>
+        <line num="209" count="2" type="stmt"/>
+        <line num="230" count="2" type="stmt"/>
+        <line num="241" count="2" type="stmt"/>
+        <line num="252" count="2" type="stmt"/>
+        <line num="268" count="2" type="stmt"/>
+        <line num="276" count="2" type="stmt"/>
+        <line num="283" count="2" type="stmt"/>
+        <line num="297" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.CartIcon">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="CartIcon.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/CartIcon/CartIcon.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="StyledCartIcon.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/CartIcon/StyledCartIcon.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.PopUpList">
+      <metrics statements="20" coveredstatements="18" conditionals="14" coveredconditionals="10" methods="9" coveredmethods="7"/>
+      <file name="PopUpList.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/PopUpList/PopUpList.jsx">
+        <metrics statements="5" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="1"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="86" count="3" type="stmt"/>
+      </file>
+      <file name="PopUpListStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/PopUpList/PopUpListStyled.jsx">
+        <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="9" methods="6" coveredmethods="6"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="63" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="66" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="69" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="72" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="104" count="3" type="stmt"/>
+        <line num="114" count="3" type="stmt"/>
+        <line num="123" count="3" type="stmt"/>
+        <line num="128" count="3" type="stmt"/>
+        <line num="134" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.PopUpShadule">
+      <metrics statements="24" coveredstatements="21" conditionals="8" coveredconditionals="5" methods="7" coveredmethods="3"/>
+      <file name="PopUpShedulteContainer.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/PopUpShadule/PopUpShedulteContainer.jsx">
+        <metrics statements="12" coveredstatements="9" conditionals="8" coveredconditionals="5" methods="7" coveredmethods="3"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="104" count="3" type="stmt"/>
+      </file>
+      <file name="PopUpShedulteContainerStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/PopUpShadule/PopUpShedulteContainerStyled.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="79" count="3" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
+        <line num="93" count="3" type="stmt"/>
+        <line num="96" count="3" type="stmt"/>
+        <line num="103" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.SearchProducts">
+      <metrics statements="30" coveredstatements="17" conditionals="12" coveredconditionals="2" methods="12" coveredmethods="5"/>
+      <file name="SearchProducts.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/SearchProducts/SearchProducts.jsx">
+        <metrics statements="28" coveredstatements="15" conditionals="12" coveredconditionals="2" methods="12" coveredmethods="5"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="63" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="108" count="2" type="stmt"/>
+      </file>
+      <file name="StyledSearchProducts.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/SearchProducts/StyledSearchProducts.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.SearchProducts.Product">
+      <metrics statements="13" coveredstatements="9" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="Product.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/SearchProducts/Product/Product.jsx">
+        <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+      <file name="StyledProduct.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/SearchProducts/Product/StyledProduct.jsx">
+        <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="src.components.Header.UserPopUp">
+      <metrics statements="16" coveredstatements="13" conditionals="14" coveredconditionals="8" methods="7" coveredmethods="4"/>
+      <file name="UserPopUp.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/UserPopUp/UserPopUp.jsx">
+        <metrics statements="13" coveredstatements="10" conditionals="14" coveredconditionals="8" methods="7" coveredmethods="4"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+      </file>
+      <file name="UserPopUpStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/UserPopUp/UserPopUpStyled.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.Utils">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Animations.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/Utils/Animations.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+      </file>
+      <file name="LogoDesktop.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/Utils/LogoDesktop.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+      <file name="LogoMobile.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/Utils/LogoMobile.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header.WishListComponent">
+      <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+      <file name="StyledWishListComponent.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/WishListComponent/StyledWishListComponent.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+      <file name="WishListComponent.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Header/WishListComponent/WishListComponent.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.HomePage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="HomePage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/HomePage/HomePage.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.LogIn">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="LogIn.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/LogIn.jsx">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="LogInStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/LogInStyled.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.LogIn.AuthForm">
+      <metrics statements="23" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="AuthForm.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/AuthForm/AuthForm.jsx">
+        <metrics statements="22" coveredstatements="1" conditionals="12" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+      </file>
+      <file name="AuthFormStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/AuthForm/AuthFormStyled.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.LogIn.ContentWrapper">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ContentWrapper.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/ContentWrapper/ContentWrapper.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="ContentWrapperStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/ContentWrapper/ContentWrapperStyled.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.LogIn.ToSignUp">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ToSignUp.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/ToSignUp/ToSignUp.jsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="ToSignUpStyled.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/LogIn/ToSignUp/ToSignUpStyled.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.NewProductsSlider">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="NewProductsSlider.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NewProductsSlider/NewProductsSlider.jsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="StylesNewProductSlider.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NewProductsSlider/StylesNewProductSlider.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="carouselSettings.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NewProductsSlider/carouselSettings.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.NewProductsSlider.SliderTitle">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="SliderTitle.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NewProductsSlider/SliderTitle/SliderTitle.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="StylesSliderTItle.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NewProductsSlider/SliderTitle/StylesSliderTItle.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.NoMatchPage">
+      <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="NoMatchPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/NoMatchPage/NoMatchPage.jsx">
+        <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.OnlyNotAuthRoute">
+      <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="OnlyNotAuthRoute.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/OnlyNotAuthRoute/OnlyNotAuthRoute.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.OrderPage">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+      <file name="OrderPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/OrderPage/OrderPage.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.OrderPage.OrderInfo">
+      <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="3" methods="5" coveredmethods="4"/>
+      <file name="OrderInfo.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/OrderPage/OrderInfo/OrderInfo.jsx">
+        <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="5" coveredmethods="4"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="87" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+      </file>
+      <file name="StyledOrderInfo.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/OrderPage/OrderInfo/StyledOrderInfo.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.PrivateRoute">
+      <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="PrivateRoute.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/PrivateRoute/PrivateRoute.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductCard">
+      <metrics statements="20" coveredstatements="19" conditionals="8" coveredconditionals="6" methods="3" coveredmethods="2"/>
+      <file name="ProductCard.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/ProductCard.jsx">
+        <metrics statements="8" coveredstatements="7" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="1"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+      </file>
+      <file name="StyledProductCard.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/StyledProductCard.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="41" count="6" type="stmt"/>
+        <line num="48" count="6" type="stmt"/>
+        <line num="59" count="6" type="stmt"/>
+        <line num="70" count="6" type="stmt"/>
+        <line num="85" count="6" type="stmt"/>
+        <line num="92" count="6" type="stmt"/>
+        <line num="97" count="6" type="stmt"/>
+        <line num="108" count="6" type="stmt"/>
+        <line num="113" count="1" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.ProductCard.InStock">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="InStock.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/InStock/InStock.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="StyledInStocke.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/InStock/StyledInStocke.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductCard.ProductSoldOut">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ProductSoldOut.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/ProductSoldOut/ProductSoldOut.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="StyledProductSoldOut.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductCard/ProductSoldOut/StyledProductSoldOut.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage">
+      <metrics statements="33" coveredstatements="20" conditionals="8" coveredconditionals="1" methods="9" coveredmethods="1"/>
+      <file name="ProductPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/ProductPage.jsx">
+        <metrics statements="20" coveredstatements="8" conditionals="6" coveredconditionals="1" methods="8" coveredmethods="1"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="52" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+      </file>
+      <file name="StylesProductPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/StylesProductPage.jsx">
+        <metrics statements="13" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="97" count="2" type="stmt"/>
+        <line num="102" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage.CartGroup">
+      <metrics statements="19" coveredstatements="11" conditionals="12" coveredconditionals="6" methods="8" coveredmethods="1"/>
+      <file name="CartGroup.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/CartGroup/CartGroup.jsx">
+        <metrics statements="16" coveredstatements="8" conditionals="12" coveredconditionals="6" methods="8" coveredmethods="1"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+      </file>
+      <file name="StylesCartGroup.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/CartGroup/StylesCartGroup.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage.CartGroup.InputGroup">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="InputGroup.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/CartGroup/InputGroup/InputGroup.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+      </file>
+      <file name="StylesInputGroup.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/CartGroup/InputGroup/StylesInputGroup.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage.ProductRate">
+      <metrics statements="28" coveredstatements="4" conditionals="12" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="ProductRate.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/ProductRate/ProductRate.jsx">
+        <metrics statements="26" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+      <file name="StylesProductRate.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/ProductRate/StylesProductRate.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage.ProductRate.utils">
+      <metrics statements="16" coveredstatements="2" conditionals="10" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="checkIsCustomerRateProduct.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/ProductRate/utils/checkIsCustomerRateProduct.js">
+        <metrics statements="9" coveredstatements="1" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="getUpdatedProductTeamplate.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/ProductRate/utils/getUpdatedProductTeamplate.js">
+        <metrics statements="7" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductPage.utils">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="carouselSettings.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductPage/utils/carouselSettings.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductSubscribeModal">
+      <metrics statements="12" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="ProductSubscribeModal.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductSubscribeModal/ProductSubscribeModal.jsx">
+        <metrics statements="12" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductsPreview">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="Catalog.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductsPreview/Catalog.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="4" type="stmt"/>
+      </file>
+      <file name="StyledCatalog.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductsPreview/StyledCatalog.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductsPreview.CatalogBillboard">
+      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="CatalogBillboard.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductsPreview/CatalogBillboard/CatalogBillboard.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="16" type="stmt"/>
+        <line num="14" count="16" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+      </file>
+      <file name="StyledCatalogBillboard.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductsPreview/CatalogBillboard/StyledCatalogBillboard.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="22" count="16" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ProductsPreview.CatalogCardWrapper">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="MainCatalogCardWrapper.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ProductsPreview/CatalogCardWrapper/MainCatalogCardWrapper.jsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ReviewSlider">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ReviewSlider.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ReviewSlider/ReviewSlider.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+      </file>
+      <file name="StyledReviewSlider.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ReviewSlider/StyledReviewSlider.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
+        <line num="105" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Router">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Router.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/Router/Router.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ServiceSection">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ServiceSection.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ServiceSection/ServiceSection.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="StyledServiceSection.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/ServiceSection/StyledServiceSection.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="94" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.StarRating">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="StarRating.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/StarRating/StarRating.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+      </file>
+      <file name="StyledStarRating.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/StarRating/StyledStarRating.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.StarRating.Star">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Star.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/StarRating/Star/Star.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.StyledSpinner">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="StyledSpinner.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/StyledSpinner/StyledSpinner.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="8" count="7" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.WishlistPage">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <file name="StylesWishlistPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/WishlistPage/StylesWishlistPage.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="WishlistPage.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/WishlistPage/WishlistPage.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.common">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Container.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/Container.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="15" type="stmt"/>
+        <line num="18" count="15" type="stmt"/>
+      </file>
+      <file name="SliderArrowLeft.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/SliderArrowLeft.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+      </file>
+      <file name="SliderArrowRight.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/SliderArrowRight.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+      </file>
+      <file name="SliderArrowTeamplate.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/SliderArrowTeamplate.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+      <file name="Wrapper.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/Wrapper.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.common.Buttons">
+      <metrics statements="21" coveredstatements="21" conditionals="38" coveredconditionals="37" methods="19" coveredmethods="19"/>
+      <file name="StyledButton.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/Buttons/StyledButton.jsx">
+        <metrics statements="21" coveredstatements="21" conditionals="38" coveredconditionals="37" methods="19" coveredmethods="19"/>
+        <line num="6" count="19" type="stmt"/>
+        <line num="23" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="50" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="64" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="67" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="70" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="73" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="82" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="86" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="90" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="93" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="96" count="50" type="cond" truecount="2" falsecount="0"/>
+        <line num="104" count="19" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.common.Heading">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Heading.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/components/common/Heading/Heading.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mocks">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="branches.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/mocks/branches.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="cities.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/mocks/cities.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="matchMedia.mock.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/mocks/matchMedia.mock.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="29" type="stmt"/>
+        <line num="4" count="159" type="stmt"/>
+      </file>
+      <file name="order.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/mocks/order.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="products.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/mocks/products.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="17" count="17" type="stmt"/>
+        <line num="22" count="17" type="stmt"/>
+        <line num="24" count="17" type="stmt"/>
+        <line num="37" count="17" type="stmt"/>
+        <line num="38" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.auth">
+      <metrics statements="29" coveredstatements="13" conditionals="6" coveredconditionals="2" methods="10" coveredmethods="2"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/auth/actionCreator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/auth/actionType.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="19" type="stmt"/>
+        <line num="2" count="19" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/auth/middleware.js">
+        <metrics statements="17" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/auth/reducer.js">
+        <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="5" count="19" type="stmt"/>
+        <line num="7" count="19" type="stmt"/>
+        <line num="9" count="19" type="stmt"/>
+        <line num="13" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="92" type="cond" truecount="1" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="92" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.authModal">
+      <metrics statements="16" coveredstatements="13" conditionals="5" coveredconditionals="2" methods="9" coveredmethods="3"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/authModal/actionCreator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/authModal/actionType.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/authModal/middleware.js">
+        <metrics statements="3" coveredstatements="2" conditionals="1" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/authModal/reducer.js">
+        <metrics statements="9" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="12" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="91" type="cond" truecount="1" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="91" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.cart">
+      <metrics statements="174" coveredstatements="61" conditionals="58" coveredconditionals="8" methods="77" coveredmethods="7"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/cart/actionCreator.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="1"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="21" count="12" type="stmt"/>
+        <line num="25" count="12" type="stmt"/>
+        <line num="29" count="12" type="stmt"/>
+        <line num="33" count="12" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="40" count="12" type="stmt"/>
+        <line num="44" count="12" type="stmt"/>
+        <line num="48" count="12" type="stmt"/>
+        <line num="52" count="12" type="stmt"/>
+        <line num="56" count="12" type="stmt"/>
+        <line num="59" count="12" type="stmt"/>
+        <line num="62" count="12" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/cart/actionType.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="23" type="stmt"/>
+        <line num="2" count="23" type="stmt"/>
+        <line num="3" count="23" type="stmt"/>
+        <line num="4" count="23" type="stmt"/>
+        <line num="5" count="23" type="stmt"/>
+        <line num="6" count="23" type="stmt"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="8" count="23" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="10" count="23" type="stmt"/>
+        <line num="11" count="23" type="stmt"/>
+        <line num="12" count="23" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="14" count="23" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/cart/middleware.js">
+        <metrics statements="118" coveredstatements="15" conditionals="40" coveredconditionals="1" methods="50" coveredmethods="2"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="76" count="12" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="82" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="92" count="12" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="106" count="12" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="120" count="12" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="134" count="12" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="136" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="149" count="12" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="169" count="12" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="198" count="12" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="202" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="220" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="221" count="0" type="stmt"/>
+        <line num="223" count="0" type="stmt"/>
+        <line num="226" count="0" type="stmt"/>
+        <line num="229" count="0" type="stmt"/>
+        <line num="230" count="0" type="stmt"/>
+        <line num="231" count="0" type="stmt"/>
+        <line num="233" count="0" type="stmt"/>
+        <line num="235" count="0" type="stmt"/>
+        <line num="239" count="12" type="stmt"/>
+        <line num="240" count="0" type="stmt"/>
+        <line num="241" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="244" count="0" type="stmt"/>
+        <line num="245" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="247" count="0" type="stmt"/>
+        <line num="248" count="0" type="stmt"/>
+        <line num="251" count="12" type="stmt"/>
+        <line num="252" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="253" count="0" type="stmt"/>
+        <line num="254" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="255" count="0" type="stmt"/>
+        <line num="257" count="0" type="stmt"/>
+        <line num="258" count="0" type="stmt"/>
+        <line num="259" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="260" count="0" type="stmt"/>
+        <line num="262" count="0" type="stmt"/>
+        <line num="268" count="0" type="stmt"/>
+        <line num="272" count="0" type="stmt"/>
+        <line num="273" count="0" type="stmt"/>
+        <line num="275" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="276" count="0" type="stmt"/>
+        <line num="277" count="0" type="stmt"/>
+        <line num="280" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/cart/reducer.js">
+        <metrics statements="29" coveredstatements="19" conditionals="18" coveredconditionals="7" methods="14" coveredmethods="4"/>
+        <line num="18" count="22" type="stmt"/>
+        <line num="19" count="22" type="stmt"/>
+        <line num="20" count="22" type="stmt"/>
+        <line num="21" count="22" type="stmt"/>
+        <line num="22" count="22" type="stmt"/>
+        <line num="23" count="22" type="stmt"/>
+        <line num="24" count="22" type="stmt"/>
+        <line num="25" count="22" type="stmt"/>
+        <line num="26" count="22" type="stmt"/>
+        <line num="27" count="22" type="stmt"/>
+        <line num="29" count="22" type="stmt"/>
+        <line num="62" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="63" count="92" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="67" count="92" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="72" count="92" type="cond" truecount="4" falsecount="11"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="131" count="2" type="stmt"/>
+        <line num="136" count="2" type="stmt"/>
+        <line num="141" count="87" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.catalog">
+      <metrics statements="67" coveredstatements="31" conditionals="20" coveredconditionals="4" methods="28" coveredmethods="3"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/catalog/actionCreator.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/catalog/actionType.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/catalog/middleware.js">
+        <metrics statements="34" coveredstatements="4" conditionals="10" coveredconditionals="0" methods="14" coveredmethods="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/catalog/reducer.js">
+        <metrics statements="17" coveredstatements="11" conditionals="10" coveredconditionals="4" methods="6" coveredmethods="3"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="17" count="17" type="stmt"/>
+        <line num="18" count="17" type="stmt"/>
+        <line num="20" count="17" type="stmt"/>
+        <line num="28" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="29" count="91" type="cond" truecount="3" falsecount="6"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="67" count="87" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.customer">
+      <metrics statements="73" coveredstatements="31" conditionals="31" coveredconditionals="6" methods="29" coveredmethods="6"/>
+      <file name="actionCreator.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/customer/actionCreator.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="6" count="18" type="stmt"/>
+        <line num="11" count="18" type="stmt"/>
+        <line num="16" count="18" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="23" count="18" type="stmt"/>
+      </file>
+      <file name="actionType.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/customer/actionType.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="23" type="stmt"/>
+        <line num="2" count="23" type="stmt"/>
+        <line num="3" count="23" type="stmt"/>
+        <line num="4" count="23" type="stmt"/>
+        <line num="5" count="23" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/customer/middleware.js">
+        <metrics statements="50" coveredstatements="11" conditionals="24" coveredconditionals="2" methods="20" coveredmethods="4"/>
+        <line num="8" count="18" type="stmt"/>
+        <line num="9" count="18" type="stmt"/>
+        <line num="11" count="18" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="18" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="18" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="67" count="18" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="81" count="18" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="88" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/customer/reducer.jsx">
+        <metrics statements="13" coveredstatements="10" conditionals="7" coveredconditionals="4" methods="4" coveredmethods="2"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="17" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="91" type="cond" truecount="3" falsecount="3"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="51" count="87" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.dashBoardModal">
+      <metrics statements="16" coveredstatements="12" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="1"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/dashBoardModal/actionCreator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/dashBoardModal/actionType.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/dashBoardModal/middleware.js">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/dashBoardModal/reducer.js">
+        <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="11" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="91" type="cond" truecount="1" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="27" count="91" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.products">
+      <metrics statements="56" coveredstatements="28" conditionals="18" coveredconditionals="5" methods="26" coveredmethods="7"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/products/actionCreator.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/products/actionType.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/products/middleware.js">
+        <metrics statements="38" coveredstatements="14" conditionals="10" coveredconditionals="2" methods="20" coveredmethods="5"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/products/reducer.js">
+        <metrics statements="10" coveredstatements="6" conditionals="8" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="17" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="92" type="cond" truecount="2" falsecount="3"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="43" count="91" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.productsPreview">
+      <metrics statements="56" coveredstatements="28" conditionals="33" coveredconditionals="4" methods="14" coveredmethods="10"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/productsPreview/actionCreator.js">
+        <metrics statements="10" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+      <file name="actionTypes.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/productsPreview/actionTypes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/productsPreview/middleware.js">
+        <metrics statements="27" coveredstatements="10" conditionals="25" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/productsPreview/reducer.js">
+        <metrics statements="13" coveredstatements="9" conditionals="8" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="22" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="91" type="cond" truecount="3" falsecount="4"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="58" count="87" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.subscriceOnProductModal">
+      <metrics statements="14" coveredstatements="12" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="2"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/subscriceOnProductModal/actionCreator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/subscriceOnProductModal/actionType.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/subscriceOnProductModal/middleware.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/subscriceOnProductModal/reducer.js">
+        <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="10" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="91" type="cond" truecount="1" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="23" count="91" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.subscriptions">
+      <metrics statements="15" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/subscriptions/middleware.js">
+        <metrics statements="15" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.wishlist">
+      <metrics statements="93" coveredstatements="36" conditionals="39" coveredconditionals="7" methods="29" coveredmethods="9"/>
+      <file name="actionCreator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/wishlist/actionCreator.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+      </file>
+      <file name="actionType.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/wishlist/actionType.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+      </file>
+      <file name="middleware.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/wishlist/middleware.js">
+        <metrics statements="77" coveredstatements="20" conditionals="34" coveredconditionals="2" methods="23" coveredmethods="3"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="55" count="6" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="6" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="85" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="101" count="6" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="105" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="111" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="119" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/store/wishlist/reducer.js">
+        <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="12" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="91" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="30" count="86" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.styles">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="mediaBreakPoints.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/styles/mediaBreakPoints.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="41" type="stmt"/>
+        <line num="7" count="41" type="stmt"/>
+        <line num="11" count="41" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="103" coveredstatements="31" conditionals="66" coveredconditionals="7" methods="30" coveredmethods="7"/>
+      <file name="cartLS.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/cartLS.js">
+        <metrics statements="40" coveredstatements="5" conditionals="26" coveredconditionals="2" methods="12" coveredmethods="1"/>
+        <line num="2" count="12" type="stmt"/>
+        <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="51" count="12" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="12" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+      </file>
+      <file name="checkFormValues.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/checkFormValues.js">
+        <metrics statements="13" coveredstatements="1" conditionals="13" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="checkValue.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/checkValue.js">
+        <metrics statements="3" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/constants.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="20" type="stmt"/>
+        <line num="3" count="20" type="stmt"/>
+        <line num="7" count="20" type="stmt"/>
+        <line num="8" count="20" type="stmt"/>
+        <line num="9" count="20" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="20" type="stmt"/>
+        <line num="13" count="20" type="stmt"/>
+        <line num="14" count="20" type="stmt"/>
+        <line num="20" count="20" type="stmt"/>
+        <line num="21" count="20" type="stmt"/>
+      </file>
+      <file name="cutString.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/cutString.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="formTrimStringValidator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/formTrimStringValidator.js">
+        <metrics statements="8" coveredstatements="0" conditionals="9" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="7" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="makeConfigFromUrl.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/makeConfigFromUrl.js">
+        <metrics statements="9" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="makeUrlFromConfig.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/makeUrlFromConfig.js">
+        <metrics statements="7" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="rateCalculator.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/rateCalculator.js">
+        <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="2" count="7" type="stmt"/>
+        <line num="3" count="25" type="cond" truecount="3" falsecount="0"/>
+        <line num="4" count="25" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+      </file>
+      <file name="shuffleArray.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/shuffleArray.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="17" type="stmt"/>
+      </file>
+      <file name="slicePlus.jsx" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/slicePlus.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="upperCaseFirstLetter.js" path="/Users/vladikbaryshpolets/Desktop/Final_project_Online-store/src/utils/upperCaseFirstLetter.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="7" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
